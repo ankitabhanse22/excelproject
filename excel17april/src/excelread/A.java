@@ -11,8 +11,7 @@ public class A
 {
 	public void readdata(String filenm, String sheetnm) throws IOException
 	{
-		
-		System.out.println("aaaa");
+
 	
 		int arrayexcel[][]=null;
 		FileInputStream file=new FileInputStream(filenm);
